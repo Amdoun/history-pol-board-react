@@ -1,0 +1,20 @@
+{"merch":
+    [
+        {
+            "nom":"PC portable",
+            "prix":2000
+        },
+        {
+            "nom":"PC fixe",
+            "prix":2200
+        },
+        {
+            "nom":"Téléphone portable",
+            "prix":1000
+        },
+        {
+            "nom":"Souris",
+            "prix":8
+        }
+    ]
+}
